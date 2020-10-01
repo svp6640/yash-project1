@@ -33,17 +33,17 @@ def fetch_data():
     course1 = df1.course1
     course2 = df1.course2
 
-    if mInDB >= mInN or mInDB >= mInDM or mInDB >= mInAI or mInDB >= mInand or mInDB >= mInDS:
+    if mInDB >= mInN or mInDB >= mInDM or mInDB >= mInAI or mInDB >= mInand or mInDB >= mInDS;
         a = 1
     else:
         a = 0
 
-    if "java" == language1 or "python" == language1 or "R" == language1 or "c++" == language1:
+    if "java" == language1 or "python" == language1 or "R" == language1 or "c++" == language1;
         b = 1
     else:
         b = 0
 
-    if "java" == language2 or "python" == language2 or "R" == language2 or "c++" == language2:
+    if "java" == language2 or "python" == language2 or "R" == language2 or "c++" == language2;
         c = 1
     else:
         c = 0
